@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #eff1ed;
+}
+
+.user-marker {
+  width:1rem;
+  height: 1rem;
+  background-color: blue;
+}
